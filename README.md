@@ -4,13 +4,13 @@
 
 ## 📥 ডাউনলোড
 
-**[⬇️ NEXA-v1.8.0.apk ডাউনলোড করো](NEXA-v1.8.0.apk)** — উপরের ফাইলে ক্লিক করো, তারপর **"Download raw file"** বাটনে ক্লিক করো।
+**[⬇️ NEXA-v1.8.1.apk ডাউনলোড করো](NEXA-v1.8.1.apk)** — উপরের ফাইলে ক্লিক করো, তারপর **"Download raw file"** বাটনে ক্লিক করো।
 
 অথবা **[Releases পেজ থেকে ডাউনলোড করো](https://github.com/mdhonabali61-blip/NEXA-APK/releases)**
 
 ## 📲 ইনস্টল করার নিয়ম
 
-1. APK ফাইলটা ডাউনলোড করো (21 MB)
+1. APK ফাইলটা ডাউনলোড করো (37 MB)
 2. ফোনে **Settings → Security → Install unknown apps** এ গিয়ে তোমার ব্রাউজার/ফাইল ম্যানেজারের পারমিশন অন করো
 3. APK ফাইলে ট্যাপ করো → **Install** চাপো
 4. ব্যাস! NEXA রেডি 🎉
