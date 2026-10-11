@@ -4,7 +4,7 @@
 
 ## 📥 ডাউনলোড
 
-**[⬇️ NEXA-v2.0.0.apk ডাউনলোড করো](NEXA-v2.0.0.apk)** — উপরের ফাইলে ক্লিক করো, তারপর **"Download raw file"** বাটনে ক্লিক করো।
+**[⬇️ NEXA-v2.0.0.apk ডাউনলোড করো](https://github.com/mdhonabali61-blip/NEXA-APK/releases/download/v2.0.0/NEXA-v2.0.0.apk)** — লিংকে ক্লিক করলেই ডাউনলোড শুরু হবে।
 
 অথবা **[Releases পেজ থেকে ডাউনলোড করো](https://github.com/mdhonabali61-blip/NEXA-APK/releases)**
 
